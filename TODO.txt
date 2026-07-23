@@ -1,0 +1,5 @@
+=== SERECORDENITY WORKSPACE TODO ===
+
+[ ] Test APK build via Android Studio (`./gradlew assembleRelease` or `./gradlew assembleDebug`).
+[ ] Verify Phish.in audio playback on physical low-bandwidth network (2G/3G throttling test).
+[ ] Optional: Add custom Ogg encapsulation wrapper for OPUS codec saving.
