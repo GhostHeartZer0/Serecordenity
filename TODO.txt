@@ -3,3 +3,6 @@
 [ ] Test APK build via Android Studio (`./gradlew assembleRelease` or `./gradlew assembleDebug`).
 [ ] Verify Phish.in audio playback on physical low-bandwidth network (2G/3G throttling test).
 [ ] Optional: Add custom Ogg encapsulation wrapper for OPUS codec saving.
+[ ] https://phish.in/api-docs
+https://petstore.swagger.io/?url=https%3A%2F%2Fphish.in/api/v2/swagger_doc
+[ ] add editing files option. this would fix an issue where saving a file creates a whole new one.
